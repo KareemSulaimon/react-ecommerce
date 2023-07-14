@@ -1,0 +1,37 @@
+ [{
+    "title": "Slider1",
+    "id": 1,
+    "description": "New In: Marine Serre",
+    "shop": "Shop Now",
+    "image": "https://cdn.shopify.com/s/files/1/0566/4731/9706/files/marineserre.png"
+}
+
+, {
+    "title": "Slider2 ",
+    "id": 2,
+    "description": "New In: Casa Serre",
+    "shop": "shop all",
+    "image": "https://cdn.shopify.com/s/files/1/0566/4731/9706/files/casablanca_fec21830-e468-4f7a-9a87-4f09722e9c74.png"
+},
+{
+    "title": "Slider2 ",
+    "id": 2,
+    "description": "New In: Casa Serre",
+    "shop": "shop all",
+    "image": "https://cdn.shopify.com/s/files/1/0566/4731/9706/files/casablanca_fec21830-e468-4f7a-9a87-4f09722e9c74.png"
+},
+{
+    "title": "Slider2 ",
+    "id": 2,
+    "description": "New In: Casa Serre",
+    "shop": "shop all",
+    "image": "https://cdn.shopify.com/s/files/1/0566/4731/9706/files/casablanca_fec21830-e468-4f7a-9a87-4f09722e9c74.png"
+},
+{
+    "title": "Slider2 ",
+    "id": 2,
+    "description": "New In: Casa Serre",
+    "shop": "shop all",
+    "image": "https://cdn.shopify.com/s/files/1/0566/4731/9706/files/casablanca_fec21830-e468-4f7a-9a87-4f09722e9c74.png"
+}
+]

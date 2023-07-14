@@ -1,0 +1,59 @@
+  [{
+        "type": "Men",
+        "id": 1,
+        "categories": [
+            {
+                "All": [{"url": "/"}, {"id": 22}] },
+            { "Clothing": [{"url": "/"},{"id": 22}, {"subCategories":["Top","Skirt", "Pants","Shirt","T-Shirt","underWear"]}]},
+                {"Shoes": [{"url": "/"}, {"id": 23}, {"subCategories": ["Heels", "Slipper"]}]},
+            { "Accesories": [{"url": "/"}, {"id": 24}, {"subCategories":["Bags", "Belt","Socks","Sunglasses","underWear"]}]}
+                ],
+        "image":"https://sfycdn.speedsize.com/3e0f3535-6980-450e-a0b6-dfaa29d181a6/https://cdn.shopify.com/s/files/1/0566/4731/9706/files/men.png"
+    }, {
+        "type": "Women",
+        "id": 2,
+        "categories": [
+        {
+            "All": [{"url": "/"}, {"id": 22}] },
+        { "Clothing": [{"url": "/"},{"id": 22}, {"subCategories":["Top","Skirt", "Pants","Shirt","T-Shirt","underWear"]}]},
+            {"Shoes": [{"url": "/"}, {"id": 23}, {"subCategories": ["Heels", "Slipper"]}]},
+        { "Accesories": [{"url": "/"}, {"id": 24}, {"subCategories":["Bags", "Belt","Socks","Sunglasses","underWear"]}]}
+        
+        
+            ],
+        "image": "https://sfycdn.speedsize.com/3e0f3535-6980-450e-a0b6-dfaa29d181a6/https://cdn.shopify.com/s/files/1/0566/4731/9706/files/IMG_0037_1a.png"
+    },{
+        "type": "Brands",
+        "id": 2,
+        "categories": [
+        {
+            "All": [{"url": "/"}, {"id": 22}],
+            "View All Brands": [{"url": "/"},{"id": 22},
+             {"subCategories":["Nike",
+        " Objects IV Life",
+        " Opening Ceremony",
+        " Pièces Uniques",
+            "Qasimi",
+            "Represent",
+        " Rhude",
+        "Robyn Lynch",
+        "  Sunflower",
+            "Who Decides War",
+            "Wood Wood"]}],
+            "Ashluxe Essentials": [{"url": "/"}, {"id":32}],
+            "Ashluxe Website": [{"url": "/"}, {"id":32}],
+            "Adidas": [{"url": "/"}, {"id":32}],
+            "Billionaire Boys Club": [{"url": "/"}, {"id":32}],
+        " Casablanca": [{"url": "/"}, {"id":32}],
+        " Daily Paper": [{"url": "/"}, {"id":32}],
+        " Hatton Labs": [{"url": "/"}, {"id":32}],
+            "Nike": [{"url": "/"}, {"id":32}],
+            "Who Decides War": [{"url": "/"}, {"id":32}]
+        
+            
+        }
+        
+            ],
+        "image": "https://sfycdn.speedsize.com/3e0f3535-6980-450e-a0b6-dfaa29d181a6/https://cdn.shopify.com/s/files/1/0566/4731/9706/files/brands_1.jpg"
+    }
+]
